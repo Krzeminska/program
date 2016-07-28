@@ -1,0 +1,13 @@
+id, name, surname, age, city, parent_id
+1, Piotr, Nowak, 17, Warszawa, 2
+2, Andrzej, Kowalski, 47, Poznan, 0
+3, Stanislaw, Nowak, 3, Krakow, 2
+4, Piotr, Nowak, 17, Warszawa, 2
+5, Andrzej, Kowalski, 47, Poznan, 0
+6, Stanislaw, Nowak, 3, Krakow, 2
+7, Piotr, Nowak, 17, Warszawa, 2
+8, Andrzej, Kowalski, 47, Poznan, 0
+9, Stanislaw, Nowak, 3, Krakow, 2
+10, Piotr, Nowak, 17, Warszawa, 2
+11, Andrzej, Kowalski, 47, Poznan, 0
+12, Stanislaw, Nowak, 3, Krakow, 2
